@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@babel/cli": "^7.16.0",
-    "@babel/core": "^7.16.5",
+    "@babel/core": "^7.23.2",
     "@osd/babel-preset": "1.0.0",
     "@osd/cross-platform": "1.0.0",
     "@osd/dev-utils": "1.0.0",
@@ -28,7 +28,7 @@
     "jest-diff": "^27.5.1",
     "js-yaml": "^3.14.0",
     "json-stable-stringify": "^1.0.1",
-    "lmdb": "^2.8.0",
+    "lmdb": "^3.0.12",
     "normalize-path": "^3.0.0",
     "pirates": "^4.0.1",
     "postcss": "^8.4.5",
